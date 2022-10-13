@@ -15,18 +15,13 @@ We investigate the dataset to have the ability to answer the following questions
 ### The original problem description and data set can be found here: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Findings:
-<ul><li>The most month has release movies in is september </li>
+<ul> 
+    <li>The most month has release movies in is september </li>
     <li>The most day has release movies in is day one</li>
-    <li>Regarding to the popular at each year:</li>
-    <ul><li>We calculate the most popular genres of each year</li>
-    <li>We calculate the most earnings movie of each year</li>
-    <li>Most used genres is Drama with 4761</li>
-    <li>Min used genres is Western with 165</li></ul>
-    <li>The most earnings movie in terms of 2010 dollar:</li>
-    <li>Star Wars at 1977 is the most earnings movie in in termes of 2010 dollars.</li> 
-    <li>Regarding earnings and popularity and scoreing:</li>
+	<li>Most used genres is Drama with 4761</li>
+    <li>Least used genres is Western with 165</li>
+    <li>Star Wars at 1977 is the most earnings movie in in termes of 2010 dollars.</li>
     <li>popularity doesn't make big change for earnings</li> 
     <li>scoring aslo doesn't really affect much to earnings</li>
-    <li>Regarding Month with high earnings:</li>
     <li>The month with the highest earnings is June.</li>
 </ul>
